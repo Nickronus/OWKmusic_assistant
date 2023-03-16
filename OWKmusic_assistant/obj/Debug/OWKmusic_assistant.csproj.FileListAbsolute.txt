@@ -1,0 +1,51 @@
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe.config
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.pdb
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.AssemblyReference.cache
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.SuggestedBindingRedirects.cache
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.Form1.resources
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.Properties.Resources.resources
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.GenerateResource.cache
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.CoreCompileInputs.cache
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.exe
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.pdb
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormCreateSequence.resources
+P:\VISUAL_STUDIO\Projects\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormKKKrug.resources
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe.config
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.pdb
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.AssemblyReference.cache
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormKKKrug.resources
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.Properties.Resources.resources
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.GenerateResource.cache
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.CoreCompileInputs.cache
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.exe
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.pdb
+D:\Учеба\ГПО проект\archivOWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormMain.resources
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe.config
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.pdb
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.AssemblyReference.cache
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormInfo.resources
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormMain.resources
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormKKKrug.resources
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.Properties.Resources.resources
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.GenerateResource.cache
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.CoreCompileInputs.cache
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.exe
+D:\Учеба\ГПО проект\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.pdb
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe.config
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.exe
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\bin\Debug\OWKmusic_assistant.pdb
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.AssemblyReference.cache
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.SuggestedBindingRedirects.cache
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormInfo.resources
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormMain.resources
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.FormKKKrug.resources
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.Properties.Resources.resources
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.GenerateResource.cache
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.csproj.CoreCompileInputs.cache
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.exe
+P:\VISUAL_STUDIO\Projects\OWK\OWKmusic_assistant\OWKmusic_assistant\obj\Debug\OWKmusic_assistant.pdb
